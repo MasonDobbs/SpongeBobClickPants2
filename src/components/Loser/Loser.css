@@ -1,0 +1,21 @@
+.lostGame{
+    background: orange;
+    color: white;
+    font: bold;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 15%;
+}
+
+.btn{
+    margin-left: 30%;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+    border: white solid 10px;
+    margin-top: 20px
+}
+
+body{
+    background: orange;
+}

@@ -1,0 +1,17 @@
+.header{
+    margin-bottom: 100px;
+    height: 100px;
+    background: orange;   
+}
+
+.scores{
+    margin-top: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.title{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}

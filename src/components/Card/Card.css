@@ -1,0 +1,24 @@
+.img-container{
+    border-radius: 10%;
+    padding: 0
+}
+
+.card{
+    height: 150px;
+    width: 150px;
+    border-radius: 10%;
+    padding: 0;
+    margin: 10px;
+    
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10%;
+    padding: 0px
+}
+
+.row{
+    max-width: 700px
+}

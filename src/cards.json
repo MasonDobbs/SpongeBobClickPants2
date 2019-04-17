@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Doodle Bob",
+        "image": "./assets/images/doodleBob.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Mini Spongebob",
+        "image": "./assets/images/Mini_SpongeBob.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Thumbs-Up Spongebob",
+        "image": "./assets/images/SpongeBob-Thumbs-Up.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "SpongeBobBubbles",
+        "image": "./assets/images/SpongeBobBubbles.jpg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "SpongeBobCool",
+        "image": "./assets/images/spongebobCool.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "spongebobCrying",
+        "image": "./assets/images/spongebobCrying.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "spongebobDried",
+        "image": "./assets/images/spongebobDried.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "spongebobFinger",
+        "image": "./assets/images/spongebobFinger.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "SpongeBobHoly",
+        "image": "./assets/images/SpongeBobHoly.jpeg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "spongebobMocking",
+        "image": "./assets/images/spongebobMocking.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "SpongeBobRainbow",
+        "image": "./assets/images/SpongeBobRainbow.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "spongebobSinging",
+        "image": "./assets/images/spongebobSinging.png",
+        "count": 0
+    }
+
+]

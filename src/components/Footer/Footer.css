@@ -1,0 +1,20 @@
+.footer{
+    margin-top: 100px;
+    height: 100px;
+    background: orange;
+}
+
+.info{
+    background: darkorange;
+    font-weight: bold;
+    color: white;
+    
+}
+
+#portfolioLink{
+    text-align: center;
+    padding-left: 300px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
